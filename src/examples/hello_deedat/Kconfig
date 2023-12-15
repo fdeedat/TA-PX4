@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_HELLO_DEEDAT
+	bool "hello_deedat"
+	default n
+	---help---
+		Enable support for hello_deedat
