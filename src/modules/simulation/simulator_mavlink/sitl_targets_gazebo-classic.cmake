@@ -105,6 +105,7 @@ if(gazebo_FOUND)
 		uuv_bluerov2_heavy
 		uuv_hippocampus
 		TA_vehicle
+		f450
 	)
 
 	set(worlds

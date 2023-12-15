@@ -82,6 +82,7 @@ px4_add_romfs_files(
 	4008_gz_advanced_plane
 
 	22000_gazebo-classic_TA_vehicle
+	4011_gazebo-classic_f450
 
 	6011_gazebo-classic_typhoon_h480
 	6011_gazebo-classic_typhoon_h480.post
